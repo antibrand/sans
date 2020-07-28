@@ -47,4 +47,5 @@ Two styles are available for each of the static weights.
 Nine weights available for each of the static styles.
 
 `100, 200, 300, 400, 500, 600, 700, 800, 900`
+
 `thin, extra-light, light, regular, medium, semi-bold, bold, extra-bold, black`
