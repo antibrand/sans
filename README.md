@@ -18,7 +18,7 @@ Check for font-variation-settings support.
 
 ```scss
 h1 {
-    font-family: 'sans', system-ui,	-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans,	Ubuntu,	Cantarell, 'Helvetica Neue', Helvetica,	sans-serif,	'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-family: 'sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', Helvetica, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
     // Set font weight as bold.
     font-weight: 700;
