@@ -1,0 +1,26 @@
+/* -------------------------------------------------------
+Variable font.
+Usage:
+
+  html { font-family: 'sans', sans-serif; }
+  @supports (font-variation-settings: normal) {
+    html { font-family: 'sans var', sans-serif; }
+  }
+*/
+@font-face {
+  font-family: 'sans';
+  font-weight: 100 900;
+  font-style: normal;
+  font-named-instance: 'regular';
+  font-display: swap;
+  src: url("font-files/sans-roman.var.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'sans';
+  font-weight: 100 900;
+  font-style: italic;
+  font-named-instance: 'italic';
+  font-display: swap;
+  src: url("font-files/sans-italic.var.woff2") format("woff2");
+}
